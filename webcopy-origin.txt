@@ -1,0 +1,728 @@
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900|Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900&amp;display=swap
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400,100,300,500,600,700
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://www.deepwave.pro/
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index.htm
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/about-us.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\about-us.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/blog.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\blog.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/css/animate.min.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/aos.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\aos.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/bootstrap.min.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/default.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\default.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/flaticon.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/fontawesome-all.min.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/magnific-popup.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/meanmenu.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/nice-select.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\nice-select.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/responsive.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/slick.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\slick.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/css/style.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\css\style.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400.eot
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400.woff
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400.woff2
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.deepwave.pro/fonts/fa-brands-400d41d.eot?
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400.eot
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400.woff
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400.woff2
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.deepwave.pro/fonts/fa-regular-400d41d.eot?
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900.eot
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900.woff
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900.woff2
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.deepwave.pro/fonts/fa-solid-900d41d.eot?
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/Flaticon.eot
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/fonts/Flaticon.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticon.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/fonts/Flaticon.ttf
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://www.deepwave.pro/fonts/Flaticon.woff
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://www.deepwave.pro/fonts/Flaticon.woff2
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.deepwave.pro/fonts/Flaticond41d.eot?
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\fonts\Flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.deepwave.pro/img/bg/about_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\about_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/breadcrumb_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\breadcrumb_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/breadcrumb_bg02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\breadcrumb_bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/breadcrumb_bg03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\breadcrumb_bg03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/breadcrumb_overlay_dots.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\breadcrumb_overlay_dots.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/bg/category_bg.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\category_bg.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/bg/delivery_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\delivery_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/fact_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\fact_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/faq_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\faq_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/footer_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/gallery_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\gallery_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/help_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\help_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/newsletter_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\newsletter_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/quote_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\quote_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/services_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\services_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/s_cat_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\s_cat_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/testimonial_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\testimonial_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/testimonial_map_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\testimonial_map_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/tracking_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\tracking_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/t_cat_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\t_cat_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/bg/video_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\bg\video_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/blockquote_bg.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\blockquote_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/blog_thumb01.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\blog_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/blog_thumb02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\blog_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/blog_thumb03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\blog_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/f_rc_img01.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\f_rc_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/f_rc_img02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\f_rc_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb01.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb04.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb05.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb06.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb07.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/blog/s_blog_thumb08.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\blog\s_blog_thumb08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/brand/brnad_logo01.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\brand\brnad_logo01.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/brand/brnad_logo02.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\brand\brnad_logo02.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/brand/brnad_logo03.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\brand\brnad_logo03.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/brand/brnad_logo04.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\brand\brnad_logo04.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/brand/brnad_logo05.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\brand\brnad_logo05.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/favicon.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/gallery/gallery_thumb01.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\gallery\gallery_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/gallery/gallery_thumb02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\gallery\gallery_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/gallery/gallery_thumb03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\gallery\gallery_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/gallery/gallery_thumb04.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\gallery\gallery_thumb04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/icon/calculator-symbols02.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\icon\calculator-symbols02.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/icon/nw_selarw.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\icon\nw_selarw.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/icon/quote.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\icon\quote.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/icon/services_quote.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\icon\services_quote.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/about_img01.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\about_img01.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/about_img02.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\about_img02.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/about_img03.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\about_img03.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/card_img.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\card_img.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/ellips_shape.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\ellips_shape.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/extra_features_img.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\extra_features_img.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/f_download_btn01.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\f_download_btn01.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/f_download_btn02.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\f_download_btn02.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/int_cargo_img.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\int_cargo_img.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/services_details_img.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_details_img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_details_img02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_details_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_details_img03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_details_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_details_img04.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_details_img04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_img01.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_img02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/services_img03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\services_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/sidebar_support.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\sidebar_support.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/images/testi_avatar01.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\testi_avatar01.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/images/testi_avatar02.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\images\testi_avatar02.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/logo/logo.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/logo/w_logo.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\logo\w_logo.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/slider/raster_dot.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\raster_dot.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/slider/slider_img01.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\slider_img01.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/slider/slider_img02.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\slider_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/slider/slider_img03.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\slider_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/img/slider/slider_shape.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\slider_shape.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/img/slider/third_slider_shape.png
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\img\slider\third_slider_shape.png
+Content Type: image/png
+
+Uri: https://www.deepwave.pro/index-2.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index-2.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/index/css/animate.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\animate.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/css/bootstrap.min.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/css/jquery.bxslider.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/css/owl.carousel.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/css/prettyPhoto.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/css/style.css
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\css\style.css
+Content Type: text/css
+
+Uri: https://www.deepwave.pro/index/images/banner/banner1.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\images\banner\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/index/images/tracking.jpg
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\images\tracking.jpg
+Content Type: image/jpeg
+
+Uri: https://www.deepwave.pro/index/js/bootstrap.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/custom.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/jquery.bxslider.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/jquery.easy-pie-chart.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\jquery.easy-pie-chart.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/jquery.isotope.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/jquery.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/jquery.prettyPhoto.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/owl.carousel.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/js/wow.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/index/order_tracking.php
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\index\order_tracking.php.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/js/ajax-form.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/aos.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\aos.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/bootstrap.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/isotope.pkgd.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.counterup.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.magnific-popup.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.meanmenu.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.nice-select.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.scrollUp.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/jquery.waypoints.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/main.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/paroller.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\paroller.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/plugins.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/popper.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/slick.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/vendor/jquery-1.12.4.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/js/wow.min.js
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.deepwave.pro/service-air.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\service-air.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/service-door-to-door.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\service-door-to-door.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/service-Railway.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\service-Railway.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/service-warehouse.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\service-warehouse.html
+Content Type: text/html
+
+Uri: https://www.deepwave.pro/support.html
+File Name: C:\Users\Hi\Downloads\shipment\www.deepwave.pro\support.html
+Content Type: text/html
+

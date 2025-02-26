@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="index.css">
+<meta name="viewport" content="width=device-width" initial-scale="1">
+
+</head>
+
+<body>
+
+    <div class="head_section">
+
+        <div class="head_bound">
+
+			<div class="logo_bound">
+				<div class="logo_g">logo</div>
+                <div class="menu_bar" onclick="menu()">Menu</div>
+			</div>
+			
+			<div class="menu_list">
+
+				<div class="update_user" onclick="new_user()">Update User</div>
+				<div class="create_new" onclick="new_user()"> Create New User</div>
+				<div class="transaction_history" onclick="transaction()">Transaction history</div>
+
+			</div>
+			
+			<script src='links.js'></script>
+        </div>
+
+    </div>
+
+    <div class="dashboard_section">
+
+        <div class="dashboard_bound">
+
+
+            <div class="bound_cage1"> 
+
+                <div class="passport_section">
+
+					<div class="passport_main">
+
+					</div>
+
+					<div class="passport_new">
+
+						
+
+						
+					</div>
+					
+
+                </div>
+
+                <div class="search_section">
+
+					<div class="input_search">
+						<input type='text' class='search_f' placeholder="Enter Email or Identifier"> 
+					</div>
+
+					<div class="search_btn" onclick="search()">Search</div>
+                    
+                </div>
+
+
+            </div>
+
+
+
+
+
+			<div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+					Account Holder Full Names
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='full_names' disabled class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+			<div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Account holder Email
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='email' disabled class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+			<div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Account Holder Identifier
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='identifier' disabled class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+			
+			
+            <div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+					Depositor's Name
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='depositor_names' class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+
+
+
+
+            <div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Transaction Type e.g Deposit, Withdrawal, Transfer e.t.c
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='transaction_type' class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+
+
+
+
+
+
+            <div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Date e.g 6/Jan/2023
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='date' class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+
+
+
+
+
+            <div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Amount 
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='amount' class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+
+
+
+
+
+            <div class="bound_cage"> 
+			
+				<div class='bound_left'>
+					<div class='b_l_text'>
+						
+						Status e.g Pending, Completed
+					
+					</div>
+				
+				</div>
+				
+				
+				<div class='bound_right'>
+					
+					<div class='b_right_input'>
+						
+					<input type='text' id='status' class='fetched_input'>
+					
+					</div>
+					
+					<div class='b_right_btn'>
+						
+					
+					
+					</div>
+				
+				</div>
+                
+            </div>
+
+
+
+
+
+
+            <div class="bound_cage_btn"> 
+
+                <div class="create_btn" onclick="transaction_add()">Add transaction</div>
+
+             </div>   
+
+
+
+
+
+             
+            <div class="report"> 
+
+                <!-- <div class="report_info">Transaction has been sucessfully created</div> -->
+
+             </div>  
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+    </div>
+
+    <script src='transaction.js'></script>
+
+
+
+</body>
+
+</html>

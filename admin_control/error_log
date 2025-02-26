@@ -1,0 +1,206 @@
+[21-Nov-2023 14:20:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastntcy/public_html/admin_control/dbConfig.php on line 11
+[21-Nov-2023 14:24:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastntcy/public_html/admin_control/dbConfig.php on line 11
+[21-Nov-2023 14:24:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastntcy/public_html/admin_control/dbConfig.php on line 11
+[21-Nov-2023 14:25:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "error" in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 14:26:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "error" in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 14:29:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "error" in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 14:31:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "error" in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:08:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:37 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:09:56 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:20 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:24 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(2): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/fastntcy/public_html/admin_control/dbConfig.php:7
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/searched_value.php(4): require()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:11:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:11:21 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:12:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "error" in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:13:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:13:13 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:13:34 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:13:37 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:13:48 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:16:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:16:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:17:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:17:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'fourth_day_location' doesn't have a default value in /home/fastntcy/public_html/admin_control/create_new_user.php:65
+Stack trace:
+#0 /home/fastntcy/public_html/admin_control/create_new_user.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:18:09 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:18:26 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:18:50 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100519 Library:100236 in /home/fastntcy/public_html/admin_control/dbConfig.php on line 7
+[21-Nov-2023 15:18:50 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:19:16 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:19:16 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:25:22 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:25:22 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:26:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:26:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:26:51 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:27:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:27:41 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:28:12 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:28:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:28:12 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:28:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/fastntcy/public_html/admin_control/create_new_user.php on line 65
+[21-Nov-2023 15:28:25 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fastntcy/public_html/admin_control/create_new_user.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 74
+[21-Nov-2023 15:31:14 UTC] PHP Notice:  Undefined variable: mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:31:57 UTC] PHP Warning:  Undefined variable $mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:34:01 UTC] PHP Warning:  Undefined variable $mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:34:18 UTC] PHP Warning:  Undefined variable $mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:35:15 UTC] PHP Warning:  Undefined variable $mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:35:28 UTC] PHP Warning:  Undefined variable $mysqli in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
+[21-Nov-2023 15:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/fastntcy/public_html/admin_control/create_new_user.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/fastntcy/public_html/admin_control/create_new_user.php on line 89
